@@ -5,7 +5,7 @@ variable "aws_secret_key" {
     default = ""
 }
 
-#If you have token for you IAM you can use this
+#If you have token for your IAM you can use this else comment this
 
 variable "token" {
     default = ""
